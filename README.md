@@ -1,5 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Michael Ifeanyi!
 
+---
+![Twitter Follow](https://img.shields.io/twitter/follow/moregan_tweet?label=Let%27s%20connect%20on%20twitter%21&style=social)
+
+A Systems Engineer specializing in Cloud technologies and DevOps Engineering. Always looking to learn, share knowledge and impact positively via Information Technology. 
+
+---
+
 <!--
 **miifeanyi/miifeanyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
