@@ -10,6 +10,9 @@ A Systems Engineer specializing in Cloud and DevOps Engineering. Always looking 
 
 <img src ="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure logo" width="50" height="50"/> <img src ="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS logo" width="50" height="50"/> <img src ="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/> <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="50" height="50"/> <img src ="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes logo" width="50" height="50"/> <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"/> <img src ="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux logo" width="50" height="50"/>  <img src ="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins logo" width="50" height="50"/>
 
+---
+![Visitor Count](https://profile-counter.glitch.me/{miifeanyi}/count.svg)
+
 
 
 <!--
